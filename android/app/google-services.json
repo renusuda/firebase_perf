@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213641175730",
+    "project_id": "fir-perf-dbf68",
+    "storage_bucket": "fir-perf-dbf68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213641175730:android:3e5f004fa6e26ef6e99fab",
+        "android_client_info": {
+          "package_name": "com.example.firebase_perf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDsncLGxeWb6-S80UNg8BVkE1K0Y74a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

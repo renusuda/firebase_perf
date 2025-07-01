@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'fir-perf-dbf68.firebasestorage.app',
     iosBundleId: 'com.example.firebasePerf',
   );
+
 }
